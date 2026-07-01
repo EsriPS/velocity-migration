@@ -1,0 +1,41 @@
+title: "Release: "
+labels:
+  - release
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to announce a new release of the ArcGIS Velocity Migration Tool.
+        Keep the details in sync with the [User Guide Changelog](https://velocitymigration.arcgis.com/guide/#changelog).
+  - type: input
+    id: release
+    attributes:
+      label: Release
+      description: The release name and version as shown in the tool header.
+      placeholder: Beta | 2026R1.0
+    validations:
+      required: true
+  - type: textarea
+    id: whats-new
+    attributes:
+      label: What's new
+      description: User-visible changes in this release. Use one bullet per change to match the Changelog.
+      value: |
+        - 
+        - 
+        - 
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes & known issues
+      description: Optional upgrade notes, caveats, or known issues for this release.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        For the full change history, see the [User Guide Changelog](https://velocitymigration.arcgis.com/guide/#changelog).
+        Have a question about this release? Ask in the [Q&A](https://github.com/EsriPS/velocity-migration-feedback/discussions/new?category=q-a) category.

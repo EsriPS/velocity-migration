@@ -1,0 +1,73 @@
+<p align="center">
+  <img src="banner.png" alt="ArcGIS Velocity Migration Tool" width="100%">
+</p>
+
+<p align="center">
+  Migrate your ArcGIS GeoEvent Server configurations to ArcGIS Velocity.
+</p>
+
+<p align="center">
+  <a href="https://github.com/EsriPS/velocity-migration-feedback/issues/new/choose">Submit an Issue</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/EsriPS/velocity-migration-feedback/discussions">Join the Discussion</a>
+  &nbsp;·&nbsp;
+  <a href="https://velocitymigration.arcgis.com/guide/">Read the User Guide</a>
+  &nbsp;·&nbsp;
+  <a href="https://velocitymigration.arcgis.com">Open the App</a>
+</p>
+
+---
+
+## Feedback & Support
+
+This repository is the home for community feedback on the **ArcGIS Velocity Migration Tool**. It exists so that bug reports, feature requests, and questions can be tracked, discussed, and incorporated across releases.
+
+The tool itself is developed elsewhere — this space is dedicated to hearing from you.
+
+### Found a bug?
+
+[Open a bug report](https://github.com/EsriPS/velocity-migration-feedback/issues/new?template=bug_report.yml). The more detail you can provide — steps to reproduce, the ArcGIS environment you were signed in to, the tool release, and your browser — the faster we can help.
+
+### Have an idea?
+
+[Open a feature request](https://github.com/EsriPS/velocity-migration-feedback/issues/new?template=feature_request.yml) to suggest an enhancement or new capability.
+
+### Have a question?
+
+Start a conversation in [Discussions](https://github.com/EsriPS/velocity-migration-feedback/discussions). It's the best place to ask questions, share tips, and work through migration challenges with others.
+
+### Stay up to date
+
+Release news is posted in the [Announcements](https://github.com/EsriPS/velocity-migration-feedback/discussions/categories/announcements) category. Each release mirrors the [User Guide Changelog](https://velocitymigration.arcgis.com/guide/#changelog), so you can follow along as the tool evolves.
+
+### Writing a good report
+
+- **Search first.** Someone may have already reported the same thing — a reaction or comment on an existing issue helps us prioritize.
+- **Be specific.** Include what you expected to happen and what actually happened.
+- **Redact sensitive information.** Please remove tokens, credentials, and any private data from screenshots and logs before posting.
+
+## Protecting sensitive data
+
+This is a public repository. **Please do not post GeoEvent Server configuration exports (XML), credentials, tokens, hostnames, or other sensitive data** in issues or discussions — anything shared here is publicly visible and effectively permanent.
+
+If troubleshooting requires your configuration or other private details, **[open an Esri support case](https://support.esri.com/en-us/contact/create-case)**. That is the appropriate channel for sharing sensitive information privately.
+
+To report a security vulnerability, please see [SECURITY.md](SECURITY.md).
+
+## Contributing
+
+This repository is for feedback only and does not accept code contributions. See
+[CONTRIBUTING.md](CONTRIBUTING.md) for how to file bugs, request features, and
+ask questions, and our [Code of Conduct](CODE_OF_CONDUCT.md) for community
+expectations.
+
+## Maintainers & contact
+
+This repository is maintained by Esri Professional Services.
+
+- **Product help or private details:** [open an Esri support case](https://support.esri.com/en-us/contact/create-case)
+- **Repository, access, or organization questions:** ps_github_admins@esri.com
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
