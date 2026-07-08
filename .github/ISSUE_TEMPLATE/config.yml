@@ -3,9 +3,9 @@ contact_links:
   - name: Ask a question / start a discussion
     url: https://github.com/EsriPS/velocity-migration-feedback/discussions/new?category=q-a
     about: Have a question or want to talk through a migration challenge? Start a discussion in the Q&A category.
-  - name: Share a configuration or escalate privately (Esri support case)
-    url: https://support.esri.com/en-us/contact/create-case
-    about: Do not post configuration exports, credentials, or other sensitive data here. Open an Esri support case to share them privately.
+  - name: Share a configuration privately
+    url: https://github.com/EsriPS/velocity-migration-feedback/discussions/new?category=q-a
+    about: Do not post configuration exports, credentials, or other sensitive data here. Start a discussion and the maintainers will follow up privately to arrange a secure transfer.
   - name: Read the User Guide
     url: https://velocitymigration.arcgis.com/guide/
     about: Many questions are answered in the ArcGIS Velocity Migration Tool User Guide.

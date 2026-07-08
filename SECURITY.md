@@ -44,8 +44,9 @@ before submitting.
 ## Product help and private details
 
 For non-security questions or to share configuration details privately during
-troubleshooting, [open an Esri support case](https://support.esri.com/en-us/contact/create-case)
-rather than posting in this repository.
+troubleshooting, [start a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions)
+rather than posting sensitive data in this repository. The maintainers will follow up
+privately to arrange a secure file transfer when configuration details are needed.
 
 ## Handling of sensitive data
 

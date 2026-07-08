@@ -9,7 +9,7 @@ body:
 
         Before posting, please search [existing discussions](../discussions) — your question may already be answered.
 
-        > **Important:** This is a public space — do not paste GeoEvent Server configuration exports (XML), credentials, tokens, or other sensitive data. If answering your question requires your configuration, please [open an Esri support case](https://support.esri.com/en-us/contact/create-case) so it can be shared privately.
+        > **Important:** This is a public space — do not paste GeoEvent Server configuration exports (XML), credentials, tokens, or other sensitive data. If answering your question requires your configuration, please [start a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions) and the maintainers will follow up privately to arrange a secure transfer.
   - type: textarea
     id: goal
     attributes:

@@ -24,6 +24,10 @@ This repository is the home for community feedback on the **ArcGIS Velocity Migr
 
 The tool itself is developed elsewhere — this space is dedicated to hearing from you.
 
+> **How this tool is supported:** The ArcGIS Velocity Migration Tool is maintained by the **ArcGIS Velocity Product Team** and is **not** supported by Esri Technical Support. Please direct all questions, bug reports, and feature requests about the tool to this repository and its [Discussions](https://github.com/EsriPS/velocity-migration-feedback/discussions).
+>
+> This applies to the hosted migration tool itself. Esri Technical Support can still help with the underlying products and content — for example, exporting a GeoEvent Server configuration, importing the generated ArcGIS Velocity configuration, or troubleshooting items after they have been imported into Velocity.
+
 ### Found a bug?
 
 [Open a bug report](https://github.com/EsriPS/velocity-migration-feedback/issues/new?template=bug_report.yml). The more detail you can provide — steps to reproduce, the ArcGIS environment you were signed in to, the tool release, and your browser — the faster we can help.
@@ -50,7 +54,7 @@ Release news is posted in the [Announcements](https://github.com/EsriPS/velocity
 
 This is a public repository. **Please do not post GeoEvent Server configuration exports (XML), credentials, tokens, hostnames, or other sensitive data** in issues or discussions — anything shared here is publicly visible and effectively permanent.
 
-If troubleshooting requires your configuration or other private details, **[open an Esri support case](https://support.esri.com/en-us/contact/create-case)**. That is the appropriate channel for sharing sensitive information privately.
+If troubleshooting requires your configuration or other private details, **[start a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions)** and the maintainers will follow up privately to arrange a secure, private file transfer. Do not post the sensitive data in the public thread.
 
 To report a security vulnerability, please see [SECURITY.md](SECURITY.md).
 
@@ -63,9 +67,9 @@ expectations.
 
 ## Maintainers & contact
 
-This repository is maintained by Esri Professional Services.
+This repository is maintained by the ArcGIS Velocity Product Team.
 
-- **Product help or private details:** [open an Esri support case](https://support.esri.com/en-us/contact/create-case)
+- **Product help or private details:** [start a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions); for anything involving sensitive data, the maintainers will follow up privately to arrange a secure transfer.
 - **Repository, access, or organization questions:** ps_github_admins@esri.com
 
 ## License
