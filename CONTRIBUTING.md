@@ -30,9 +30,10 @@ This is a public repository. **Do not post GeoEvent Server configuration exports
 discussions — anything shared here is publicly visible and effectively permanent.
 
 If troubleshooting requires your configuration or other private details,
-[open an Esri support case](https://support.esri.com/en-us/contact/create-case)
-to share them privately. To report a security vulnerability, see
-[SECURITY.md](SECURITY.md).
+[start a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions)
+and the maintainers will follow up privately to arrange a secure file transfer.
+Do not post the sensitive data in the public thread. To report a security
+vulnerability, see [SECURITY.md](SECURITY.md).
 
 ## Code of Conduct
 

@@ -11,7 +11,7 @@ body:
 
         Before submitting, please search [existing issues](../issues?q=is%3Aissue) to avoid duplicates.
 
-        > **Important:** Do not attach or paste GeoEvent Server configuration exports (XML), credentials, tokens, or other sensitive data. This is a public repository. If reproducing the issue requires your configuration, please [open an Esri support case](https://support.esri.com/en-us/contact/create-case) so it can be shared privately.
+        > **Important:** Do not attach or paste GeoEvent Server configuration exports (XML), credentials, tokens, or other sensitive data. This is a public repository. If reproducing the issue requires your configuration, please [start a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions) and the maintainers will follow up privately to arrange a secure transfer.
   - type: textarea
     id: summary
     attributes:
@@ -94,5 +94,5 @@ body:
     attributes:
       label: Sensitive data acknowledgement
       options:
-        - label: I have not attached or pasted configuration exports (XML), credentials, tokens, or other sensitive data. I understand this is a public repository, and that full configurations should be shared privately via an [Esri support case](https://support.esri.com/en-us/contact/create-case).
+        - label: I have not attached or pasted configuration exports (XML), credentials, tokens, or other sensitive data. I understand this is a public repository, and that full configurations should be shared privately by [starting a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions) so the maintainers can arrange a secure transfer.
           required: true
