@@ -7,7 +7,7 @@ Serve the packaged files from GeoEvent Server (recommended) or another static we
 
 ## Deploy offline using GeoEvent Server (recommended)
 
-1. On a connected machine, visit [Releases](https://github.com/EsriPS/velocity-migration/releases). Once a release is published, download `velocity-migration-tool-geoevent-assets-<release>.zip` under **Assets**, not GitHub's **Source code** ZIP. Transfer the package to your environment.
+1. On a connected machine, visit [Releases](https://github.com/EsriPS/velocity-migration/releases). Once a release is published, download `velocity-migration-tool-offline-<release>.zip` under **Assets**, not GitHub's **Source code** ZIP. Transfer the package to your environment.
 2. Extract the ZIP **outside** the published assets directory. From the extracted release folder, verify the files against `CHECKSUMS.txt` (for example, `shasum -a 256 -c CHECKSUMS.txt`). Keep the manifest, license and notices with your deployment records.
 3. Copy the complete `velocitymigration/` folder into your GeoEvent Server site's published assets directory. The result should be `assets/velocitymigration/index.html` alongside `assets/velocitymigration/assets/`. Do not flatten the folders or put XML exports in the served directory. No separate web server is needed.
 4. Open `https://gisserver.domain.com:6143/geoevent/assets/velocitymigration/index.html` in a browser, substituting your site's GeoEvent Server hostname and HTTPS route as needed. Opening the file directly (`file://`) prevents the migration worker from starting.
