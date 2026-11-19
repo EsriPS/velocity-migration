@@ -47,6 +47,17 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: deployment
+    attributes:
+      label: How did you run the tool?
+      options:
+        - Hosted application
+        - Offline on GeoEvent Server
+        - Offline on another web server
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
     id: arcgis-environment
     attributes:
       label: ArcGIS environment

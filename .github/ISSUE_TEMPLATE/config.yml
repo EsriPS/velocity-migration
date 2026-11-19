@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ask a question / start a discussion
-    url: https://github.com/EsriPS/velocity-migration-feedback/discussions/new?category=q-a
+    url: https://github.com/EsriPS/velocity-migration/discussions/new?category=q-a
     about: Have a question or want to talk through a migration challenge? Start a discussion in the Q&A category.
   - name: Share a configuration privately
-    url: https://github.com/EsriPS/velocity-migration-feedback/discussions/new?category=q-a
+    url: https://github.com/EsriPS/velocity-migration/discussions/new?category=q-a
     about: Do not post configuration exports, credentials, or other sensitive data here. Start a discussion and the maintainers will follow up privately to arrange a secure transfer.
   - name: Read the User Guide
     url: https://velocitymigration.arcgis.com/guide/

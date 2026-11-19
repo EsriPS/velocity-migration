@@ -1,18 +1,18 @@
 # Contributing
 
 Thanks for helping improve the **ArcGIS Velocity Migration Tool**. This
-repository is dedicated to community feedback — bug reports, feature requests,
-and questions. The application's source code is maintained separately, so this
+repository distributes offline packages and collects bug reports, feature requests,
+and questions for both hosted and offline deployments. The application's source code is maintained separately, so this
 repository does not accept code contributions or pull requests.
 
 ## How to contribute feedback
 
-- **Report a bug:** [Open a bug report](https://github.com/EsriPS/velocity-migration-feedback/issues/new?template=bug_report.yml).
-- **Request a feature:** [Open a feature request](https://github.com/EsriPS/velocity-migration-feedback/issues/new?template=feature_request.yml).
+- **Report a bug:** [Open a bug report](https://github.com/EsriPS/velocity-migration/issues/new?template=bug_report.yml).
+- **Request a feature:** [Open a feature request](https://github.com/EsriPS/velocity-migration/issues/new?template=feature_request.yml).
 - **Ask a question or share tips:** Start a conversation in
-  [Discussions](https://github.com/EsriPS/velocity-migration-feedback/discussions).
+  [Discussions](https://github.com/EsriPS/velocity-migration/discussions).
 - **Stay up to date:** Release news is posted in the
-  [Announcements](https://github.com/EsriPS/velocity-migration-feedback/discussions/categories/announcements)
+  [Announcements](https://github.com/EsriPS/velocity-migration/discussions/categories/announcements)
   category.
 
 ## Writing good feedback
@@ -30,7 +30,7 @@ This is a public repository. **Do not post GeoEvent Server configuration exports
 discussions — anything shared here is publicly visible and effectively permanent.
 
 If troubleshooting requires your configuration or other private details,
-[start a discussion](https://github.com/EsriPS/velocity-migration-feedback/discussions)
+[start a discussion](https://github.com/EsriPS/velocity-migration/discussions)
 and the maintainers will follow up privately to arrange a secure file transfer.
 Do not post the sensitive data in the public thread. To report a security
 vulnerability, see [SECURITY.md](SECURITY.md).
