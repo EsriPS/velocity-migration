@@ -33,7 +33,7 @@
 4. Open `<your-published-assets-HTTPS-URL>/velocitymigration/index.html` in a browser. Use the same HTTPS prefix your users use for other published GeoEvent assets, not a local filesystem path. Opening the file directly (`file://`) prevents the migration worker from starting.
 5. Check access from a signed-out browser as well as an authorized one: the hosting site, not the offline tool, controls who can open the page. With internet access blocked, select a non-sensitive test XML, run a migration, download the Velocity JSON and open the HTML migration guide.
 
-On multi-node sites, verify that each serving node has the files. Check the URL again after a GeoEvent upgrade or repair. To remove the tool or restore a previous version, change only the `velocitymigration/` folder, not the parent assets directory.
+Check the URL again after a GeoEvent upgrade or repair. To remove the tool or restore a previous version, change only the `velocitymigration/` folder, not the parent assets directory.
 
 ### Alternative: use your own web server
 
